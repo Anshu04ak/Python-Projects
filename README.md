@@ -49,7 +49,7 @@ This repository is a compilation of mini projects, each focusing on different as
    
 #### **Movie Collection -** This program uses a list of tuples to represent each movie and a dictionary to categorize the movies by genre.
 **How it works:**
-1. *Add Movie: Adds a new movie to the collection by specifying the title, genre, and year.
+1. *Add Movie:* Adds a new movie to the collection by specifying the title, genre, and year.
 2. *Remove Movie:* Removes a movie from the collection by searching for the title.
 3. *Search Movie:* Allows the user to search for a movie by its title and displays its genre and release year.
 4. *Sort Movies by Year:* Displays the movies sorted by their release year.
